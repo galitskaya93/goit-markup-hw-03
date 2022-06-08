@@ -299,9 +299,6 @@ letter-spacing: 0.03em;
     color: var(--accent-color);
 }
 
-.address-list.item {
-    margin-bottom: 60px;
-}
 
 .button-secondary {
     display: inline-block;
